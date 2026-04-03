@@ -4,7 +4,7 @@ The Ark Wallet CLI (Command Line Interface) is a powerful tool that allows users
 
 ## Installation
 
-Begin by downloading a compatible binary from the [latest GitHub releases](https://github.com/ark-network/ark/releases).
+Begin by downloading a compatible binary from the [latest GitHub releases](https://github.com/arkade-os/arkd/releases).
 ### Setting Permissions
 
 Move the binary to a location in your PATH and make it executable:
